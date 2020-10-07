@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test name="ChromeTest">
   	<classes>
-     <!--  <class name="com.etrading.skillkart.scripts.TC001"/> -->
-      <class name="com.etrading.skillkart.scripts.TC002"/>
+      <class name="com.etrading.skillkart.scripts.TC001"/>
+      <!-- <class name="com.etrading.skillkart.scripts.TC002"/> -->
      <!--  <class name="com.etrading.skillkart.scripts.TC003"/>
       <class name="com.etrading.skillkart.scripts.TC004"/>
       <class name="com.etrading.skillkart.scripts.TC005"/>
